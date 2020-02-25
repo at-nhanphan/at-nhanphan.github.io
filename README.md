@@ -1,4 +1,4 @@
-* <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8?playmarket=true">move to google play store</a> 
+* <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8?playmarket=false">move to google play store</a> 
 
 
 * <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8">suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8</a> 
