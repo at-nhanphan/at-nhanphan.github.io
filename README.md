@@ -8,11 +8,15 @@
 
 * <a href="suke-dachi://suke-dachi.jp/account">suke-dachi://suke-dachi.jp/account</a> 
 
+* <a href="suke-dachi://suke-dachi.jp/account/">suke-dachi://suke-dachi.jp/account/</a>
+
 * <a href="suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5de80fd">suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5de80fd</a> 
 
 * <a href="suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5d5ha23">suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5d5ha23</a> 
 
 * <a href="suke-dachi://suke-dachi.jp/genba">suke-dachi://suke-dachi.jp/genba</a> 
+
+* <a href="suke-dachi://suke-dachi.jp/genba/">suke-dachi://suke-dachi.jp/genba/</a> 
 
 * <a href="suke-dachi://suke-dachi.jp">suke-dachi://suke-dachi.jp</a> 
 
