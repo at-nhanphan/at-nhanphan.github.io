@@ -3,6 +3,7 @@
 
 * <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8">suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8</a> 
 
+* <a href="suke-dachi://suke-dachi.jp/account/4f1ccc1b2daa4357999d9a467f2bfd6a">open profile</a>
 
 * <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e506r45f6">suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e506r45f6</a>
 
