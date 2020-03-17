@@ -22,3 +22,7 @@
 * <a href="suke-dachi://suke-dachi.jp">suke-dachi://suke-dachi.jp</a> 
 
 * <a href="suke-dachi://suke-dachi.jp/upgrade">suke-dachi://suke-dachi.jp/upgrade</a> 
+
+* <a href="suke-dachi://suke-dachi.jp/profile">suke-dachi://suke-dachi.jp/profile</a> 
+
+* <a href="suke-dachi://suke-dachi.jp/profile/">suke-dachi://suke-dachi.jp/profile/</a> 
