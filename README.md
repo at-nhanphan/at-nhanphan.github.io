@@ -1,19 +1,17 @@
 * <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8?playmarket=false">move to google play store</a> 
 
 
-* <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8">suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8</a> 
+* <a href="suke-dachi://suke-dachi.jp/account/7e486d499f2444cd998efc475cac54b0">connect detail</a> 
 
-* <a href="suke-dachi://suke-dachi.jp/account/4f1ccc1b2daa4357999d9a467f2bfd6a">open profile</a>
-
-* <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e506r45f6">suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e506r45f6</a>
+* <a href="suke-dachi://suke-dachi.jp/account/a8bd9e34d2ae4b92a686d53f057745b0">open profile</a>
 
 * <a href="suke-dachi://suke-dachi.jp/account">suke-dachi://suke-dachi.jp/account</a> 
 
 * <a href="suke-dachi://suke-dachi.jp/account/">suke-dachi://suke-dachi.jp/account/</a>
 
-* <a href="suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5de80fd">suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5de80fd</a> 
+* <a href="suke-dachi://suke-dachi.jp/genba/7deb4a99cbbb40cea423da1465e7a471">genba của e</a> 
 
-* <a href="suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5d5ha23">suke-dachi://suke-dachi.jp/genba/f02b723a0c9f45d8b3e4e151e5d5ha23</a> 
+* <a href="suke-dachi://suke-dachi.jp/genba/9a8fae56680b4bdfa3c066c6ed86082f">genba của họ</a> 
 
 * <a href="suke-dachi://suke-dachi.jp/genba">suke-dachi://suke-dachi.jp/genba</a> 
 
