@@ -1,3 +1,6 @@
+* <a href="https://staging.dev.monstar.ch/channel/channels/Y2hhbm5lbHMvOTgxNA%3D%3D?action=play">channel detail</a> 
+
+
 * <a href="suke-dachi://suke-dachi.jp/account/2e146682e9a04d6d87194b5e50625bb8?playmarket=false">move to google play store</a> 
 
 
