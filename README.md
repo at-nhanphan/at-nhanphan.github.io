@@ -4,5 +4,5 @@
 
 * <a href="https://staging.monstar.ch/app/channels/Y2hhbm5lbF9ncm91cHMvMjUwNg==">/app/channels/Y2hhbm5lbF9ncm91cHMvMjUwNg==</a> 
 
-* <a href="https://staging.monstar.ch/app/channels/search/{channelGroupID}">/app/channels/search?query=love</a> 
+* <a href="https://staging.monstar.ch/app/channels/search/?query=love">/app/channels/search?query=love</a> 
 
