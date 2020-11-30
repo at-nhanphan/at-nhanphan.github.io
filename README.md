@@ -29,3 +29,5 @@
 * <a href="https://staging.monstar.ch/app/accounts/info">/app/accounts/info</a> 
 
 * <a href="https://staging.monstar.ch/app/accounts/weather">/app/accounts/weather</a> 
+
+* <a href="https://staging.monstar.ch/app/login">/app/login</a> 
