@@ -8,7 +8,7 @@
 
 * <a href="https://staging.monstar.ch/app/news">/app/news</a> 
 
-* <a href="https://staging.monstar.ch/app/news/{newsID}">/app/news/{newsID}</a> 
+* <a href="https://staging.monstar.ch/app/news/bmV3cy8yOQ==">/app/news/bmV3cy8yOQ==</a> 
 
 * <a href="https://staging.monstar.ch/app/schedules">/app/schedules</a> 
 
