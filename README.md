@@ -6,7 +6,7 @@
 
 * <a href="https://staging.monstar.ch/app/channels/search/?query=love">/app/channels/search?query=love</a> 
 
-* <a href="https://staging.monstar.ch/app/news">/app/news</a> 
+* <a href="https://monstar.ch/app/news">/app/news</a> 
 
 * <a href="https://staging.monstar.ch/app/news/bmV3cy8yOQ==">/app/news/bmV3cy8yOQ==</a> 
 
